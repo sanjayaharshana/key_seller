@@ -1,0 +1,20 @@
+Residential
+	property type
+		residential
+			land_size
+			listed_since
+			open_houses_only
+			zoning_type
+	        number_of_units
+    		building_size
+            farm_type
+			building_type
+			open_house_only
+		    transaction_type
+            parking_type
+
+
+
+
+
+
